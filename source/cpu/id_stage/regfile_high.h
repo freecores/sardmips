@@ -1,5 +1,5 @@
 //
-// $Id: regfile_high.h,v 1.1 2006-01-25 17:00:04 igorloi Exp $
+// $Id: regfile_high.h,v 1.1.1.1 2006-01-31 10:55:29 igorloi Exp $
 //
 
 #ifndef _REGFILE_H

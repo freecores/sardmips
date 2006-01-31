@@ -1,5 +1,5 @@
 //
-// $Id: main.cpp,v 1.1 2006-01-25 16:57:56 igorloi Exp $
+// $Id: main.cpp,v 1.1.1.1 2006-01-31 10:55:26 igorloi Exp $
 //
 #include <systemc.h>
 #include "top_debug.h"

@@ -1,5 +1,5 @@
 //
-// $Id: mipsconstants.h,v 1.1 2006-01-25 17:00:00 igorloi Exp $
+// $Id: mipsconstants.h,v 1.1.1.1 2006-01-31 10:55:27 igorloi Exp $
 // Excerpt from mipsregs.h from the Linux kernel!
 //
 #ifndef _MIPSCONSTANTS_H

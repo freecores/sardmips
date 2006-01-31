@@ -1,5 +1,5 @@
 //
-// $Id: sc_risc.h,v 1.1 2006-01-25 17:00:01 igorloi Exp $
+// $Id: sc_risc.h,v 1.1.1.1 2006-01-31 10:55:28 igorloi Exp $
 //
 #ifndef _SC_RISC_H
 #define _SC_RISC_H

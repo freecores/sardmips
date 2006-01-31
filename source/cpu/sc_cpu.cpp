@@ -1,5 +1,5 @@
 //
-// $Id: sc_cpu.cpp,v 1.1 2006-01-25 17:00:01 igorloi Exp $
+// $Id: sc_cpu.cpp,v 1.1.1.1 2006-01-31 10:55:28 igorloi Exp $
 //
 // #define _ASM_ONLY_
 // #define _DOBRANCH_ -- should be defined in id_stage only!
