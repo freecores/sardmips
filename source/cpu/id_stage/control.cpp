@@ -441,7 +441,7 @@ void control::do_control()
         else
 	{
 	  if(lrs == RS_MFC0)
-	    {
+	  {
 	      cp0_inst.write(CP0_MFC0);
 	      cp0_reg_rw.write(SC_LOGIC_0);
 	      id_mfc0.write(SC_LOGIC_1);
@@ -453,7 +453,7 @@ void control::do_control()
 #ifdef ONEHOT_DEBUG
 	      inst_mfc0.write(SC_LOGIC_1);
 #endif
-	    }
+	  }
 	  else 
 	     if(lrs == RS_MTC0)
 	     {

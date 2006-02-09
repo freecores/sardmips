@@ -1,5 +1,5 @@
 //
-// $Id: regfile_high.h,v 1.1 2006-01-25 17:00:04 igorloi Exp $
+// $Id: regfile_high.h,v 1.2 2006-02-09 15:39:39 igorloi Exp $
 //
 
 #ifndef _REGFILE_H
@@ -30,7 +30,7 @@ SC_MODULE(regfile)
   SC_CTOR(regfile)
     {
       SC_METHOD(storeregister);
-      sensitive_neg << in_clk;
+      sensitive_pos << in_clk;
       
       SC_METHOD(loadregister);
       sensitive << rs << rt << in_clk;

@@ -4,7 +4,7 @@
 /*
   add Pipelined Multiplicator
 */
-//#define _MULT_PIPELINE_
+#define _MULT_PIPELINE_
 
 /*
   set the depth of the pipeline Multiplicator

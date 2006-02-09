@@ -1,5 +1,5 @@
 //
-// $Id: constants.h,v 1.1 2006-01-25 17:00:00 igorloi Exp $
+// $Id: constants.h,v 1.2 2006-02-09 15:39:38 igorloi Exp $
 //
 #ifndef _CONSTANTS_H
 #define _CONSTANTS_H
@@ -144,7 +144,7 @@
 #define FUNC_WAIT    "100000"
 
 
-#define RS_MFC0 "00000" // only 5 bit
+#define RS_MFC0 "00000"
 #define RS_MTC0 "00100"
 
 
